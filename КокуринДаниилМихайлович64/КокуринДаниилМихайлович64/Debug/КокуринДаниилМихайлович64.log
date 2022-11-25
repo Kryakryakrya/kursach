@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Good guy\source\repos\КокуринДаниилМихайлович64\КокуринДаниилМихайлович64\Source.cpp(34,17): warning C4244: return: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Good guy\source\repos\КокуринДаниилМихайлович64\КокуринДаниилМихайлович64\Source.cpp(265,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Good guy\source\repos\КокуринДаниилМихайлович64\КокуринДаниилМихайлович64\Source.cpp(290,19): warning C4018: <: несоответствие типов со знаком и без знака
+  КокуринДаниилМихайлович64.vcxproj -> C:\Users\Good guy\source\repos\КокуринДаниилМихайлович64\Debug\КокуринДаниилМихайлович64.exe

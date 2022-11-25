@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Good guy\source\repos\КокуринДМ64\КокуринДМ64\Source.cpp(91,17): warning C4244: return: преобразование "std::streamoff" в "int", возможна потеря данных
+  КокуринДМ64.cpp
+  Создание кода...
+  КокуринДМ64.vcxproj -> C:\Users\Good guy\source\repos\КокуринДМ64\Debug\КокуринДМ64.exe

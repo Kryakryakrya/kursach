@@ -1,0 +1,42 @@
+﻿  files.cpp
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(6,7): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(10,6): error C2535: info::info(void): функция-член уже определена или объявлена
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(6): message : см. объявление "info::info"
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(14,9): error C3646: name: неизвестный спецификатор переопределения
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(14,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(15,9): error C3646: country: неизвестный спецификатор переопределения
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(15,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,3): error C2065: name: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,10): error C2065: n: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,13): error C2065: country: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,23): error C2065: s: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,34): error C2065: c: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,45): error C2065: p: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(12,3): error C2065: name: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(12,14): error C2065: country: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(23,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(32,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  курсовая.cpp
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(6,7): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(10,6): error C2535: info::info(void): функция-член уже определена или объявлена
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(6): message : см. объявление "info::info"
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(14,9): error C3646: name: неизвестный спецификатор переопределения
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(14,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(15,9): error C3646: country: неизвестный спецификатор переопределения
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(15,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,3): error C2065: name: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,10): error C2065: n: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,13): error C2065: country: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,23): error C2065: s: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,34): error C2065: c: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(8,45): error C2065: p: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(12,3): error C2065: name: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(12,14): error C2065: country: необъявленный идентификатор
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(23,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(32,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Good guy\source\repos\курсовая\курсовая\курсовая.cpp(14,39): error C2661: info::info: нет перегруженной функции, принимающей 4 аргументов
+C:\Users\Good guy\source\repos\курсовая\курсовая\курсовая.cpp(17,16): error C2039: "name": не является членом "info".
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(4): message : см. объявление "info"
+C:\Users\Good guy\source\repos\курсовая\курсовая\курсовая.cpp(17,37): error C2039: "country": не является членом "info".
+C:\Users\Good guy\source\repos\курсовая\курсовая\files.cpp(4): message : см. объявление "info"
+  Создание кода...

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Good guy\source\repos\Кокурин64\Кокурин64\вводвывод.h(23): warning C4091: static : пропускается слева от "Definitions::data_struct", когда ни одна переменная не объявлена
+C:\Users\Good guy\source\repos\Кокурин64\Кокурин64\вводвывод.h(43,18): warning C4244: return: преобразование "std::streamoff" в "int", возможна потеря данных
+  Кокурин64.vcxproj -> C:\Users\Good guy\source\repos\Кокурин64\Debug\Кокурин64.exe
